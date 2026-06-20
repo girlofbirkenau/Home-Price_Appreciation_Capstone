@@ -40,7 +40,7 @@ Home-Price_Appreciation_Capstone/
 
 All data is publicly available and free to download. Instructions for obtaining each source are below.
 
-### 1. FHFA House Price Index — 100 Largest MSAs
+### 1. FHFA House Price Index: 100 Largest MSAs
 - **URL:** https://www.fhfa.gov/data/hpi/datasets?tab=quarterly-data
 - **Section:** Purchase-Only Indexes -> *100 Largest Metropolitan Statistical Areas*
 - **Format:** XLSX
